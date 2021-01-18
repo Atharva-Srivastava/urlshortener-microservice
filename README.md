@@ -24,7 +24,7 @@ https://facebook.com
 
 #### Steps to run this repo:-
 
-1. Clone this repository from the GitHub.
+1. Clone this repository from GitHub.
 
 2. Upon heading to your favourite Code Editor run this command into the terminal "npm install" to install all the required dependencies.
 
