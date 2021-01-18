@@ -21,3 +21,11 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 #### Will redirect to:
 
 https://facebook.com
+
+#### Steps to run this repo:-
+
+1. Clone this repository from the GitHub.
+
+2. Upon heading to your favourite Code Editor run this command into the terminal "npm install" to install all the required dependencies.
+
+3. When all the required dependencies are installed, run "node server.js" in the terminal to start the development server, the API will start running in port 3000 to view it in the development mode go to the following URL "http://localhost:3000".
