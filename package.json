@@ -1,7 +1,7 @@
 {
 	"name": "shorturl",
 	"version": "0.0.3",
-	"description": "API project for freeCodeCamp",
+	"description": "URL shortener Microservice",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -15,10 +15,6 @@
 	},
 	"engines": {
 		"node": "12.18.3"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
 	},
 	"keywords": [
 		"node",
